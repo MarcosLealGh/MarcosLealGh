@@ -1,12 +1,9 @@
 # Hi, I'm Marcos 👋
 
-Systems administration and security, from Santiago, Chile — networks, Linux
-infrastructure, and AI-assisted automation. Network & Telecommunications
-graduate (Duoc UC), CCNA certified.
+Network & Systems Administrator from Santiago, Chile.
+I specialize in Linux infrastructure, enterprise networks (CCNA), and AI-driven automation. Recently graduated in Network & Telecommunications (Duoc UC).
 
-What drives me is **applied work**: taking a messy operational problem and
-leaving behind a solution that runs, that someone can measure, and that
-doesn't become tomorrow's vulnerability.
+What drives me is applied problem-solving: taking a chaotic operational challenge and engineering a scalable, measurable solution that doesn't become tomorrow's vulnerability.
 
 ## Featured projects
 
