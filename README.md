@@ -36,7 +36,7 @@ between "it works" and "I know exactly why it works."
 - **CAPC / CAIPC** — CertiProf (Cybersecurity Awareness · Artificial Intelligence), Jun 2026
 - **Introduction to Cybersecurity** — Cisco
 - **Coding Dojo bootcamp** — full-stack software development (Java, Spring MVC), 2023
-- **Next up:** Microsoft AZ-104 (Azure Administrator) — voucher secured, exam October 2026
+- **Next up:** Microsoft SC-200  — voucher secured, exam October 2026
 
 ## Contact
 
